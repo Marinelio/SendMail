@@ -14,3 +14,4 @@ Start by cloning the repository to your local machine:
 git clone https://github.com/Marinelio/SendMail.git
 cd SendMail
 
+python send_email.py someone@example.com "Your message here"
