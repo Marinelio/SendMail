@@ -6,7 +6,7 @@
 
 Follow the instructions below to get the SendMail script running on your local machine.
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 Start by cloning the repository to your local machine:
 
